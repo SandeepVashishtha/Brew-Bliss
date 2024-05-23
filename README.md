@@ -6,12 +6,11 @@ Welcome to Brew Bliss, your ultimate destination for savoring exquisite coffee b
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Demo
-You can view a live demo of the website [here](https://your-website-url.com).
+You can view a live demo of the website [here](https://sandeepvashishtha.github.io/Brew-Bliss/).
 
 ## Features
 - Responsive design
